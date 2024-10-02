@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727345539 source:c:\users\ycode\desktop\prq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

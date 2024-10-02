@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727261209 source:c:\users\ycode\desktop\ex8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727432405 source:c:\users\ycode\desktop\les boucles\challenge 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
